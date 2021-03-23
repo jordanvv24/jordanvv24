@@ -1,1 +1,0 @@
-def all_paths(adj_list, source, destination):
